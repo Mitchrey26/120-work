@@ -1,0 +1,40 @@
+Name: Mitch Reynolds
+
+# HW2 RESPONSE DOCUMENT
+
+## RESPONSE TO THE QUESTIONS
+This Week in coding class I learned a lot more about how to work into the git hub
+and using atom to pair with the git hub. It took me a while to figure out what
+all of the different tool things meant but I am slowly starting to figure it out
+The steps I took to get the homework done was just making my text file and and
+than creating a new repository in the git hub desktop app after that I would
+take my file over to atom where I would than change the file however I wanted
+and than I would finalize it again back in the git hub. I didn't really have any
+issues I just kept on reworking the steps over and over again. The only thing I
+keep on getting confused about is where and how I turn the homework in.
+
+## EXAMPLE OF A PARGRAPH
+
+MY PARAGRAPH IS A GREAT PARGRAPH IT REQUIRES NO EXTRA MARKUPS
+
+BUT I HAVE TO MAKE SURE THAT I KEEP A SPACE INBETWEEN THE LINES
+
+## EXAMPLE OF INLINE SYNTAX **YOLO**
+
+## EXAMPLE OF A LINK
+
+LINKS HAVE BRACKETS THAT SURROUND THEM AND NO SPACES IN BETWEEN THE BRACKETS
+[https://www.youtube.com/]
+
+## EXAMPLE OF IMAGES MAGES ARE VERY SIMILAR TO LINKS EXECPT FOR THE FACT THAT
+AN EXLAMATION POINT GOES IN FRONT OF THE BRACKETS
+![https://www.w3schools.com/w3css/img_lights.jpg]
+
+## LISTS 
+
+- list item 1
+- list item 2
+
+
+1. List item 1
+2. List item 2
