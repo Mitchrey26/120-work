@@ -1,6 +1,6 @@
 Mitch Reynolds, 50
 
-["Hello World!"]https://mitchrey26.github.io/120-work/HW3/
+["Hello World!"](https://mitchrey26.github.io/120-work/HW3/)
 
 
 # HW3 Response
@@ -12,5 +12,6 @@ The steps I took to complete the assignment were really just working on atom and
 I didn't have any major issues this week sometimes I forgot to save my work on atom and I was getting frustated that it wasn't showing up online but than once I learned to save my work that fixed that problem. I also had an issue with my repository where I  it said it couldn't find my 120-work repo but I just re upload the file and it fixed that problem
 
 ## HW3 Sketch
+
 This is how my final sketch turned out
-![this is my final hw3 sketch](imgs/HW3_image.png)
+![this is my final hw3 sketch](images/HW3_image.png)
