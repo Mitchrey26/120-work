@@ -13,4 +13,4 @@ I didn't have any major issues this week sometimes I forgot to save my work on a
 
 ## HW3 Sketch
 This is how my final sketch turned out
-![this is my final hw3 sketch](imgs/HW3_image.png)
+![this is my final hw3 sketch] (imgs/HW3_image.png)
