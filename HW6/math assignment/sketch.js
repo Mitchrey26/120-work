@@ -1,4 +1,4 @@
-// DEFINE GLOBAL VARIABLES
+// give me variables
 let bgColor; // background-color
 let centerX, centerY;
 let smoke = {};
@@ -23,7 +23,7 @@ function setup() {
     background(bgColor);
     frameRate(20)
 
-    // Set initial position
+
     smoke.pos1x = random(width);
     smoke.pos1y = random(height);
     smoke.pos2x = smoke.pos1x + 2;
@@ -67,15 +67,6 @@ function draw() {
     smoke.pos2x = smoke.pos3x;
     smoke.pos2y = smoke.pos3y;
 
-    //////// DEBUGGING STUFF /////////////
-    // ellipse(centerX, centerY, 40, 40);
-    // push();
-    // translate(10, height - 40);
-    // fill(255);
-    // rect(0,0,150,25);
-    // fill(0);
-    // text(frameRate(), 5, 20);
-    // pop();
 }
 
 
