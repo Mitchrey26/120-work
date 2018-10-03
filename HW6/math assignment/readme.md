@@ -1,5 +1,2 @@
 # Empty p5 sketch.
-
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+This week I learned how to work better with using math and coding together. Learning how to make the smoke and all the different random effects that you could make whether it just be with the ellipse tool and also just tracers. 
