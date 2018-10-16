@@ -148,7 +148,7 @@ function draw(){
    pop();
 
    // nose
-   triangle( 0, -20, 30, 20, -30, 20 );
+   ellipse( 0, -20, 30, 20,);
 
 
    // eyes
