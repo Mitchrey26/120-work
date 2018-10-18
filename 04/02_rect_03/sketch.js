@@ -5,5 +5,5 @@ function setup() {
 
 function draw() {
     // a rectangle with various corner roundness
-    rect( 20, 20, 300, 300, 0, 90, 45, 150 );
+    rect( 20, 20, 30, 30, 0, 90, 45, 150 );
 }
