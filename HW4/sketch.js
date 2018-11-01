@@ -11,14 +11,7 @@ function draw(){
 // background
    background( 180 );
 
-//drawsmy self portrait at posX - 30 and posY - 150 location
-   selfPortrait (posX - 30, posY - 150 );
 
-   legLight( posX - 125, posY - 175 );
-   legLight( posX, posY - 150 );
-   legLight( posX + 125, posY - 175 );
-
-   lightAngle = lightAnge - 5;
 
    /* ***************************** */
    /* MAIN SANDBOX */

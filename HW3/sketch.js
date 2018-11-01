@@ -9,7 +9,7 @@ function setup(){
   for (var i = 0; i < 20; i++) {
 Text.push(
   {
-        Period: {random(60, 240), y: random(60, 240) },
+        period: {random(60, 240), y: random(60, 240) },
         maxSize;: random(4);
         maxDist: {
           x: random(width/2),
