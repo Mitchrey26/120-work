@@ -4,11 +4,17 @@ function setup(){
 }
 
 
-
 function draw(){
 
+
+posX = MouseX;
+posY = MouseY;
+
+//make eyes glow and change and spin
+
+
 // background
-   background( 180 );
+   background( 'rgb(140, 48, 0)' );
 
    /* ***************************** */
    /* MAIN SANDBOX */
@@ -164,10 +170,10 @@ function draw(){
    fill( 'green' );
    ellipse( 0, 0, 30 );
    fill( 0 );
-   ellipse( 0, 0, 20 );
+   ellipse( 0, 10, 20 );
 
    fill( 'rgb(119, 56, 25)' );
-   quad( 40, -40, 35, -30, -50, -10, -45, -30 );
+   quad( 40, -40, 35, -30, -50, -30, -45, -30 );
    pop();
 
    // right
@@ -180,9 +186,9 @@ function draw(){
    fill( 'green' );
    ellipse( 0, 0, 30 );
    fill( 0 );
-   ellipse( 0, 0, 20 );
+   ellipse( 0, 10, 20 );
    fill( 'rgb(119, 56, 25)' );
-   quad( -40, -40, -35, -30, 50, -10, 45, -30 );
+   quad( -40, -40, -35, -30, 50, -30, 45, -30 );
    pop();
 
    pop(); // HEAD END

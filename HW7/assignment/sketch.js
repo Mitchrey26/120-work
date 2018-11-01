@@ -1,5 +1,4 @@
 
-
 let ball = {};
 rectW = 80;
 rectX = 30;
@@ -10,15 +9,15 @@ rectSX = 3;
 rectSY = 9;
 
 function setup() {
-    createCanvas(windowWidth, 600);
+    createCanvas(windowWidth, windowHeight);
     background(129, 250, 31, 51);
 }
 
 
 function draw() {
 
-    rectX += rectDX * rectSX;
-    rectY += rectDY * rectSY;
+    rectX += rectSX * rectDX;
+    rectY += rectSY * rectDY;
 
 
     if (rectX >= width || rectX <= .2) {
@@ -28,12 +27,13 @@ function draw() {
         rectDY = -1 * rectDY;
        }
 push();
-    fill('pink');
+    fill(random(255), random( 255), random(255), random(255));
     rect(rectX, rectY, rectW, rectW);
 pop();
 }
 
+
 function mousePressed() {
-    rectSX = map(mouseX, 0, width, 2, 5);
+  rectSX = map(mouseX, 0, width, 2, 5);
     rectSY = map(mouseY, 0, height, 2, 5);
 }
