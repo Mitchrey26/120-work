@@ -1,0 +1,1 @@
+This week was harder for me as I am not very good at math and was having a hard time creating an algorithm on my own to make an image off of it. I'd say my delivery was not very creative as I stuck to the example pretty good but was still able to make some aesthetic changes to make it look more smooth. 
