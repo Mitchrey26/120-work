@@ -4,7 +4,7 @@
 
 let party = [];
 
-//Sets up the canvas for the snow
+//gives us the set up for the part
 function setup() {
     createCanvas(windowWidth, windowHeight);
     let b = new Party(width/2, height/2, 10);
